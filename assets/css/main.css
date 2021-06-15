@@ -2256,6 +2256,14 @@ input, select, textarea {
 				height: 150px;
 				width: 100%;
 				border-radius: 10px;
+				color: white;
+				font-weight: bold;
+				font-size: 50px;
+				text-align: center;
+				vertical-align:middle;
+				align-items: center;
+				justify-content: center;
+				display: flex;
 			}
 
 			.bannerText
